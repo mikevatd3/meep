@@ -812,6 +812,7 @@ dependencies = [
     { name = "pandas" },
     { name = "psycopg" },
     { name = "psycopg-binary" },
+    { name = "requests" },
     { name = "sqlalchemy" },
 ]
 
@@ -822,6 +823,7 @@ requires-dist = [
     { name = "pandas", specifier = ">=2.3.1" },
     { name = "psycopg", specifier = ">=3.2.9" },
     { name = "psycopg-binary", specifier = ">=3.2.9" },
+    { name = "requests", specifier = ">=2.32.4" },
     { name = "sqlalchemy", specifier = ">=2.0.43" },
 ]
 
